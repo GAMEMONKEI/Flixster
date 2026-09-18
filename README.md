@@ -1,7 +1,7 @@
 Reflection: This one was really hard for me to do. When I was doing the lab, I guess since I was really busy nothing was truly making any sense. So I spent the longest time trying to really understand what I was typing. It feels good to get it done and it's really cool how you can do this! I wonder if I can use it for shopping websites?
 
 
-# Android Project 3 - *Name of App Here*
+# Android Project 3 - *Flixster*
 
 Submitted by: **Connor Little**
 
